@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import requests
 """
 Write a function that queries the Reddit API
